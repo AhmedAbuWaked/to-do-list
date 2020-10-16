@@ -4,9 +4,15 @@
 
 #### Open the terminal in the root file and then run
 
+###### To Install PugJs
+
 ```
 npm install -D pug pug-plain-loader
+```
 
+###### To Install Sass
+
+```
 npm install -D sass-loader node-sass
 ```
 
