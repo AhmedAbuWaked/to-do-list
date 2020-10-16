@@ -45,7 +45,7 @@ cd ..
 
 ### Second to run the server-side and the client-side, Follow these stips:
 
-#### Open the first terminal in the root file and then run
+#### Open the first terminal in the backend file and then run
 
 ```
 npm start
