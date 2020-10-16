@@ -1,8 +1,17 @@
+# Description
+
+To Do List :
+This App Helping You To Manage Your Tasks
+
 ## To Run it locally
 
 ### First you need to install the node_modules, Follow these stips:
 
 #### Open the terminal in the root file and then run
+
+```
+npm install
+```
 
 ###### To Install PugJs
 
